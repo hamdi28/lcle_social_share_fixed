@@ -1523,7 +1523,7 @@ public class SwiftLecleSocialSharePlugin: NSObject, FlutterPlugin, SharingDelega
         // https://www.tiktok.com/en/
         // snssdk1180://
         // musically://
-        guard let tikTokURL = URL(string: "musically://") else {
+        guard let tikTokURL = URL(string: "snssdk1233://") else {
             result(false)
             return
         }
