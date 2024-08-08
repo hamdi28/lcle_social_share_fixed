@@ -1591,7 +1591,7 @@ public class SwiftLecleSocialSharePlugin: NSObject, FlutterPlugin, SharingDelega
             }
             return
         } else {
-            guard let tikTokStoreLink = URL(string: "itms-apps://itunes.apple.com/us/app/apple-store/id1235601864") else {
+            guard let tikTokStoreLink = URL(string: "itms-apps://itunes.apple.com/us/app/apple-store/id835599320") else {
                 result(false)
                 return
             }
